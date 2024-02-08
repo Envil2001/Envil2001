@@ -12,5 +12,5 @@ I'm Andrii. A freelance Developer from Kyiev, Ukraine. I design and develop webs
 ![Github](https://img.shields.io/badge/-Github-292928?style=flat&logo=Github)
 ![VisualCode](https://img.shields.io/badge/-VsCode-00b0b3?style=flat&logo=VisualStudioCode)
 
-* **Back-End Frameworks:** Express.js (highly knowledgeable)
-* **State Management:** Redux Toolkit (confident user)
+* **Back-End Frameworks:** Express.js 
+* **State Management:** Redux Toolkit 
