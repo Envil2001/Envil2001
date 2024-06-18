@@ -1,16 +1,21 @@
-## About me                       
-I'm Andrii. A freelance Developer from Kyiev, Ukraine. I design and develop websites, landing pages and applications for startups and enterprises
+# 👋 Hi there                    
+Frontend developer with 6 years of experience, specializing in developing dynamic and intuitive user interfaces. Experienced in working with APIs and databases to create full-fledged web applications.
 
-### Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-ffc639?style=flat&logo=JavaScript)
-![ReactJs](https://img.shields.io/badge/-React-45bcff?style=flat&logo=React)
-![NextJs](https://img.shields.io/badge/-Next-2a2a2a?style=flat&logo=Next.Js)
-![NodeJs](https://img.shields.io/badge/-Node-50ff7f?style=flat&logo=Node.Js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-5062ff?style=flat&logo=Tailwindcss)
-![MongoDB](https://img.shields.io/badge/-MongoDB-93f8a8?style=flat&logo=MongoDB)
-![MySQL](https://img.shields.io/badge/-MySQL-ffd94c?style=flat&logo=MySQL)
-![Github](https://img.shields.io/badge/-Github-292928?style=flat&logo=Github)
-![VisualCode](https://img.shields.io/badge/-VsCode-00b0b3?style=flat&logo=VisualStudioCode)
+## Frontend
+[![Frontend:](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,ts,redux)](https://skillicons.dev) 
+## Backend
+[![Backend:](https://skillicons.dev/icons?i=mongodb,postman)](https://skillicons.dev)
+## Tools
+[![Tools:](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
 
-* **Back-End Frameworks:** Express.js 
-* **State Management:** Redux Toolkit 
+Experience:
+
+* Development of web applications using modern frameworks and design patterns.
+* Creating APIs and interacting with databases.
+* Optimization of web application performance and SEO.
+* Caching data to speed up web page loading.
+* Working with version control systems to manage code.
+
+Languages: fluent in Ukrainian, fluent in Russian, A2 English, B1 Polish
+
+Age: 20 y.o.
